@@ -1,32 +1,22 @@
-  ![banner](https://i.imgur.com/JFROpm7.png)
+# Primeira semana GoStack
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AmauriOliveira_conceitos-node-goStack&metric=alert_status)](https://sonarcloud.io/dashboard?id=AmauriOliveira_Conceitos-React-Native-goStack)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=AmauriOliveira_conceitos-node-goStack&metric=bugs)](https://sonarcloud.io/dashboard?id=AmauriOliveira_Conceitos-React-Native-goStack)
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=AmauriOliveira_conceitos-node-goStack&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=AmauriOliveira_Conceitos-React-Native-goStack)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=AmauriOliveira_conceitos-node-goStack&metric=ncloc)](https://sonarcloud.io/dashboard?id=AmauriOliveira_Conceitos-React-Native-goStack)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=AmauriOliveira_conceitos-node-goStack&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=AmauriOliveira_Conceitos-React-Native-goStack)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=AmauriOliveira_conceitos-node-goStack&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=AmauriOliveira_Conceitos-React-Native-goStack)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=AmauriOliveira_conceitos-node-goStack&metric=security_rating)](https://sonarcloud.io/dashboard?id=AmauriOliveira_Conceitos-React-Native-goStack)
-[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=AmauriOliveira_conceitos-node-goStack&metric=sqale_index)](https://sonarcloud.io/dashboard?id=AmauriOliveira_Conceitos-React-Native-goStack)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AmauriOliveira_conceitos-node-goStack&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=AmauriOliveira_Conceitos-React-Native-goStack)
+> Aqui tem todo código feito na minha jornada de aprendizagem
 
-# Conceitos com React Native
-
-> Desafio do GoStack
-
-![GitHub last commit](https://img.shields.io/github/last-commit/amaurioliveira/Conceitos-React-Native-goStack)
-![license](https://img.shields.io/github/license/amaurioliveira/Conceitos-React-Native-goStack)
-![GitHub repo size](https://img.shields.io/github/repo-size/amaurioliveira/Conceitos-React-Native-goStack)
+![GitHub last commit](https://img.shields.io/github/last-commit/amaurioliveira/Primeira-Semana-GoStack)
+![license](https://img.shields.io/github/license/amaurioliveira/Primeira-Semana-GoStack)
+![GitHub repo size](https://img.shields.io/github/repo-size/amaurioliveira/Primeira-Semana-GoStack)
 
 ## :telescope: Overview
 
-  [🏠 Homepage](https://github.com/AmauriOliveira/Conceitos-React-Native-goStack)
-Quarto desafio feito no bootcamp GoStack 13
+  [🏠 Homepage](https://github.com/AmauriOliveira/Primeira-Semana-GoStack)
+Durante a primeira semana eu aprendo a básico sobre a Stack, ReactJS, NodeJS, React Native e sobre o TypeScript. Como iniciar e configurar os projetos além do conceito por trás de cada tecnologia.
 ## :computer: Techs
   
 - react native
-- jest
 - javascript
+- ReactJS
+- NodeJS
+- TypeScript
 
 
 
@@ -38,7 +28,7 @@ Contributions, issues and feature requests are welcome!
 - 🐛 Find and report issues
 - 📥 Submit PRs to help solve issues or add features
 
-Feel free to check [issues page](https://github.com/amaurioliveira/https://github.com/AmauriOliveira/Conceitos-React-Native-goStack/issues). You can also take a look at the contributing guide.
+Feel free to check [issues page](https://github.com/amaurioliveira /Conceitos-React-Native-goStack/issues). You can also take a look at the contributing guide.
 
 ## :bow: Author
 
