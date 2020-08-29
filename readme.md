@@ -10,6 +10,7 @@
 
   [🏠 Homepage](https://github.com/AmauriOliveira/Primeira-Semana-GoStack)
 Durante a primeira semana eu aprendo a básico sobre a Stack, ReactJS, NodeJS, React Native e sobre o TypeScript. Como iniciar e configurar os projetos além do conceito por trás de cada tecnologia.
+
 ## :computer: Techs
   
 - react native
@@ -76,10 +77,13 @@ Feel free to check [issues page](https://github.com/amaurioliveira/Primeira-Sema
 
 ## :bow: Author
 
-**Amauri Oliveira** 
-* Email: amauriibate32@hotmail.com
-* GitHub: [@amaurioliveira](https://github.com/amaurioliveira)
-* LinkedIn: [@amauri-oliveira-058066192](https://linkedin.com/in/amauri-oliveira-058066192)
+### **Amauri Oliveira**
+
+*Email: amauriibate32@hotmail.com
+
+*GitHub: [@amaurioliveira](https://github.com/amaurioliveira)
+
+*LinkedIn: [@amauri-oliveira-058066192](https://linkedin.com/in/amauri-oliveira-058066192)
 
 ## :books: License
 
